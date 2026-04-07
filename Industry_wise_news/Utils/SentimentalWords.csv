@@ -1,0 +1,237 @@
+text,sentiment
+accident,Negative
+adverse,Negative
+agitation,Negative
+allegations,Negative
+rbi,Negative
+erase,Negative
+cbi,Negative
+sebi,Negative
+irda,Negative
+exim,Negative
+arrest,Negative
+arrested,Negative
+attrition,Negative
+bankruptcy,Negative
+black money,Negative
+blast,Negative
+booked,Negative
+breach,Negative
+bribe,Negative
+bribery,Negative
+case registered,Negative
+casualties,Negative
+casualty,Negative
+cbi,Negative
+cbi inquiry,Negative
+central bureau of investigation,Negative
+charge sheet,Negative
+chargesheet,Negative
+cheat,Negative
+cheating,Negative
+close down,Negative
+closed,Negative
+complaint against,Negative
+contempt,Negative
+dips,Negative
+profit skid,Negative
+copyrights,Negative
+corrupt,Negative
+corruption,Negative
+court denies,Negative
+court rejects,Negative
+criminal,Negative
+custody,Negative
+death,Negative
+decline,Negative
+defamation,Negative
+default,Negative
+delay,Negative
+delayed,Negative
+die,Negative
+died,Negative
+dispute,Negative
+downgrade,Negative
+downgraded,Negative
+downgrades,Negative
+drt,Negative
+due,Negative
+dues,Negative
+embezzlement,Negative
+esi,Negative
+evading,Negative
+exits,Negative
+fda,Negative
+feud,Negative
+fine,Negative
+fined,Negative
+fines,Negative
+fir,Negative
+fire,Negative
+fired,Negative
+forgery,Negative
+forging,Negative
+fraud,Negative
+fraudulent,Negative
+harassment,Negative
+hawala,Negative
+illeagal,Negative
+illegal,Negative
+injured,Negative
+injury,Negative
+insolvency,Negative
+inspect,Negative
+inspection,Negative
+inspector,Negative
+investigation,Negative
+jail,Negative
+killed,Negative
+kills,Negative
+labour dispute,Negative
+labour strikes,Negative
+land grab ,Negative
+lock out,Negative
+loss,Negative
+losses,Negative
+low,Negative
+management changes,Negative
+misappropriation,Negative
+mishap,Negative
+money laundering,Negative
+nclt,Negative
+non compliance,Negative
+notices,Negative
+npa,Negative
+offered money,Negative
+passed away,Negative
+passes away,Negative
+penalized,Negative
+penalties,Negative
+penalty,Negative
+pledge,Negative
+plummet,Negative
+plummets,Negative
+plunges,Negative
+police,Negative
+political donation,Negative
+political influence,Negative
+probe,Negative
+profit decline,Negative
+protest,Negative
+protests,Negative
+quit,Negative
+quits,Negative
+raid,Negative
+registered case,Negative
+regulatory action,Negative
+rejection,Negative
+resign,Negative
+resignation,Negative
+resignations,Negative
+scam,Negative
+scrutinize,Negative
+sebi,Negative
+sebi proceeding,Negative
+sell recommendation,Negative
+serious fraud,Negative
+settlement,Negative
+sfio,Negative
+shut down,Negative
+slowdown,Negative
+stake sale,Negative
+stress,Negative
+strike,Negative
+strikes,Negative
+struggles,Negative
+surrenders,Negative
+suspends,Negative
+syphoning,Negative
+terminate,Negative
+termination,Negative
+theft,Negative
+theif,Negative
+unrest,Negative
+violation,Negative
+warrant issued,Negative
+wind up,Negative
+withdraw,Negative
+worst,Negative
+district court,Negative
+epf,Negative
+fined,Negative
+high court,Negative
+judgement,Negative
+land grab,Negative
+lower court,Negative
+passed away,Negative
+raided,Negative
+raids,Negative
+resigned,Negative
+resigning,Negative
+resigns,Negative
+salary,Negative
+suicide,Negative
+supreme court,Negative
+sell,Negative
+fall,Negative
+down,Negative
+drop,Negative
+falls,Negative
+declines,Negative
+sells,Negative
+ramps up,Positive
+profit jumps,Positive
+robust recovery,Positive
+profit doubles,Positive
+outperform,Positive
+wins,Positive
+jumped,Positive
+gains,Positive
+bullish,Positive
+Invests,Positive
+invest,Positive
+expand,Positive
+acquires,Positive
+soars,Positive
+awarded,Positive
+award,Positive
+shares rise,Positive
+Share rise,Positive
+shares gain,Positive
+share gain,Positive
+shares hit new highs,Positive
+share hit new high,Positive
+shares surge,Positive
+share surge,Positive
+stock jump,Positive
+share jump,Positive
+stocks gain,Positive
+stock gain,Positive
+price hits new record high,Positive
+share hits record high,Positive
+stocks up,Positive
+stock up,Positive
+price soars,Positive
+share prices hit 52 week high,Positive
+stocks stole limelight,Positive
+zooms,Positive
+new high,Positive
+new highs,Positive
+commitment,Positive
+merger & Acquisition,Positive
+merger and Acquisition,Positive
+profitable growth,Positive
+growth,Positive
+expansion,Positive
+jumps,Positive
+buy,Positive
+price up,Positive
+jump,Positive
+rise,Positive
+rises,Positive
+surge,Positive
+gain,Positive
+appoints,Positive
+nose dive,Negative
+Scores,Positive
+up ,Positive
